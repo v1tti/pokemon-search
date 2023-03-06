@@ -8,4 +8,4 @@ Simple dynamic search bar getting data from an api
 ![App Screenshot](https://i.imgur.com/jmz9P1Z.png)
 
 ### Scroll
-![App Screenshot](https://imgur.com/80b04867-8847-4148-8b5f-47504eea69a4)
+![App Screenshot](https://i.imgur.com/qEBJFxc.png)
