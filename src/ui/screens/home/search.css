@@ -49,6 +49,7 @@
     max-height: 70vh;
     border-radius: 5px;
     overflow: scroll;
+    overflow-x: hidden;
     padding: 5px;
     gap: 2%;
     display: grid;
@@ -56,8 +57,16 @@
     justify-content: center;
 }
 ::-webkit-scrollbar {
-    display: none;
+    width: 10px;
+
 }
+::-webkit-scrollbar-thumb {
+    background: #DC0A2D; 
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #92011a;
+    
+  }
 .pokemon-card {
     position: relative;
     height: 300px;
